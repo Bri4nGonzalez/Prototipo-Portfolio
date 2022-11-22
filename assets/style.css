@@ -1,0 +1,11 @@
+.img-logo {
+  width: 10%;
+}
+
+.bg-black{
+    background-color: #000000;
+}
+
+.list-group-item{
+  background-color: transparent!important;
+} 
